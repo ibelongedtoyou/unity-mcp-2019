@@ -1,0 +1,7 @@
+{
+  "name": "UnityMcp2019.Editor",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

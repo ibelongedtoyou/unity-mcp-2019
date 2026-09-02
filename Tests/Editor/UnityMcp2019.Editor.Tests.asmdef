@@ -1,0 +1,12 @@
+{
+  "name": "UnityMcp2019.Editor.Tests",
+  "references": [
+    "UnityMcp2019.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
